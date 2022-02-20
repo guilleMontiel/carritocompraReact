@@ -19,8 +19,11 @@ Adicionalmente se integra Docker para poder levantar el proyecto en un contenedo
 <br>
 Al finalizar se debe abrir una terminal y navegar hasta el directorio donde se encuentra el proyecto clonado. Luego ejecutar:<br>
 - <b> docker-compose up </b> 
-El comando anterior realizara la instalacion de todas las dependencias necesarias y posteriormente ejecutara de forma interna el comando "npm start" para que el proyecto quede en funcionamiento. Es importante no cerrar la terminal ya que si no el servidor dejara de funcionar. 
+- <br>
+<p>El comando anterior realizara la instalacion de todas las dependencias necesarias y posteriormente ejecutara de forma interna el comando "npm start" para que el proyecto quede en funcionamiento.</p> 
+<p>Es importante no cerrar la terminal ya que si no el servidor dejara de funcionar. </p>
 <br>
+
 - Para detener el contenedor, simplemente ejecutar en la misma terminal donde esta corriendo el servidor la combinacion <b>CTRL+C</b> 
 
 # ENTRAR AL SISTEMA
