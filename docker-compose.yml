@@ -1,0 +1,16 @@
+version: '3.5'
+services:
+    carritoapp:
+        image: node:14-alpine
+        working_dir: /app
+        command: npm start
+        ports:
+         - "3000:3000"
+        volumes:
+         - ./:/app/
+
+#ejecutar por primera vez en la consola
+# docker-compose run --rm reactapp npx create-react-app react-app --use-npm
+# el archivo yml se debe mover a la carpeta donde se creo toda la estructura del proyecto de react
+# sudo mv docker-compose.yml react-app/
+# entrar a la carpeta del proyecto y levantar el contenedor
