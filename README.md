@@ -15,13 +15,13 @@ Adicionalmente se integra Docker para poder levantar el proyecto en un contenedo
 - <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">Git</a>
 
 - Una vez instalado Docker y Git se debe ejecutar el siguiente comando:<br>
-<b>git clone https://github.com/guilleMontiel/testsymfony.git</b>
+<b>https://github.com/guilleMontiel/carritocompraReact.git</b>
 <br>
 Al finalizar se debe abrir una terminal y navegar hasta el directorio donde se encuentra el proyecto clonado. Luego ejecutar:<br>
-<b> docker-compose up </b> 
+- <b> docker-compose up </b> 
 El comando anterior realizara la instalacion de todas las dependencias necesarias y posteriormente ejecutara de forma interna el comando "npm start" para que el proyecto quede en funcionamiento. Es importante no cerrar la terminal ya que si no el servidor dejara de funcionar. 
 <br>
-Para detener el contenedor, simplemente ejecutar en la misma terminal donde esta corriendo el servidor la combinacion <b>CTRL+C</b> 
+- Para detener el contenedor, simplemente ejecutar en la misma terminal donde esta corriendo el servidor la combinacion <b>CTRL+C</b> 
 
 # ENTRAR AL SISTEMA
 
