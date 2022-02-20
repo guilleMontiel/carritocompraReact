@@ -23,7 +23,7 @@ Al finalizar se debe abrir una terminal y navegar hasta el directorio donde se e
 <br>
 Es importante no cerrar la terminal ya que el servidor dejara de funcionar. <br>
 Para detener el contenedor, simplemente ejecutar en la misma terminal donde esta corriendo el servidor la combinacion <b>CTRL+C</b> 
-<br>
+
 # ENTRAR AL SISTEMA
 
 http://localhost:3000
