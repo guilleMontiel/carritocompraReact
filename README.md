@@ -18,7 +18,7 @@ Una vez instalado Docker y Git se debe ejecutar el siguiente comando:<br>
 - <b>git clone https://github.com/guilleMontiel/carritocompraReact.git</b>
 <br>
 Al finalizar se debe abrir una terminal y navegar hasta el directorio donde se encuentra el proyecto clonado. Luego ejecutar:<br><br>
-- <b> docker-compose run --rm carritocomporaReact npm install (por primera vez)</b><br>
+- <b> docker-compose run --rm carritocompraReact npm install (por primera vez)</b><br>
 - <b> docker-compose up (para levantar el servidor con el proyecto)</b><br>
 <br>
 Es importante no cerrar la terminal ya que el servidor dejara de funcionar. <br>
